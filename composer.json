@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nexmo/client": "^1.6",
+        "twbs/bootstrap": "4.1.3"
+    }
+}
